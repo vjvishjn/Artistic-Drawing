@@ -58,12 +58,3 @@ The application asks for the following parameters as input when the executable i
       constructing the Catmull-Rom Splines.
 
     ● Line Width [<int> ideally 3] : Line Width that is used to draw in SVG.
-
-## Results
-Parameters| Output
------------- | -------------
-**Final Time : 2 <br> Time increment : 0.1 <br> Randomness : 5 <br> Linewidth : 3 <br> Spline Curve Parameter : 50** | ![SVG Triangle](SVG/Results/Triangle_SVG.png)
-**Final Time : 2 <br> Time increment : 0.1 <br> Randomness : 5 <br> Linewidth : 3 <br> Spline Curve Parameter : 50** | ![SVG Triangle](SVG/Results/Triangle_SVG.png)
-**Final Time : 2 <br> Time increment : 0.1 <br> Randomness : 5 <br> Linewidth : 3 <br> Spline Curve Parameter : 50** | ![SVG Triangle](SVG/Results/Triangle_SVG.png)
-**Final Time : 2 <br> Time increment : 0.1 <br> Randomness : 5 <br> Linewidth : 3 <br> Spline Curve Parameter : 50** | ![SVG Triangle](SVG/Results/Triangle_SVG.png)
-**Final Time : 2 <br> Time increment : 0.1 <br> Randomness : 5 <br> Linewidth : 3 <br> Spline Curve Parameter : 50** | ![SVG Triangle](SVG/Results/Triangle_SVG.png)
